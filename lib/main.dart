@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Teste de app Flutter - Bootcamp DIO',
+              'Teste Bootcamp DIO',
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
             Text(
